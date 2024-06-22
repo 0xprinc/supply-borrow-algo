@@ -1,4 +1,16 @@
 We are using `Linear Programming`
+## Instructions
+```shell
+pip install numpy
+pip install scipy
+```
+
+```shell
+python3 code.py
+```
+
+
+
 ## Mathematical Equations
 
 ### Equalities
